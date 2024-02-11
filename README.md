@@ -1,6 +1,6 @@
 # Gridfinity parts
 
-These are custom bases and parts that are useful to me.  Feel free to use these as you see fit.
+These are custom bases and parts for [Gridfinity](https://www.youtube.com/watch?v=ra_9zU-mnl8) that are useful to me.  Feel free to use these as you see fit.
 
 ### Bases
 
@@ -9,6 +9,7 @@ These are custom bases and parts that are useful to me.  Feel free to use these 
 ### Parts
 
 - [BQ-CC17](./parts/battery-charger) Holder for a Panasonic [BQ-CC17](https://www.panasonic.com/global/energy/products/eneloop/en/lineup/charger-bq-cc17.html) battery charger.
+- [Clear Tape](./parts/clear-tape) Holder for the small size roll of Scotch tape, labeled as "Gift Wrap Tape".
 
 ## Printing
 
