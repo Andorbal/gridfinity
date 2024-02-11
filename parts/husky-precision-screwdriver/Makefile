@@ -1,5 +1,5 @@
 # match "module foobar() { // `make` me"
-TARGETS=$(shell sed '/^module [a-z0-9_-]*().*make me.*$$/!d;s/module /build\//;s/().*/.3mf/' clear-tape.scad)
+TARGETS=$(shell sed '/^module [a-z0-9_-]*().*make me.*$$/!d;s/module /build\//;s/().*/.3mf/' husky-precision-screwdriver.scad)
 
 all: ${TARGETS}
 
@@ -12,7 +12,7 @@ include $(wildcard build/*.deps)
 
 build/%.scad:
 	mkdir -p $(@D)
-	echo 'use <../clear-tape.scad>\n$*();' > $@
+	echo 'use <../husky-precision-screwdriver.scad>\n$*();' > $@
 
 build/%.3mf: build/%.scad
 	openscad -m make -o $@ -d $@.deps $<

@@ -10,6 +10,7 @@ These are custom bases and parts for [Gridfinity](https://www.youtube.com/watch?
 
 - [BQ-CC17](./parts/battery-charger) Holder for a Panasonic [BQ-CC17](https://www.panasonic.com/global/energy/products/eneloop/en/lineup/charger-bq-cc17.html) battery charger.
 - [Clear Tape](./parts/clear-tape) Holder for the small size roll of Scotch tape, labeled as "Gift Wrap Tape".
+- [Husky Precision Screwdriver](./parts/husky-precision-screwdriver) Holder for a [Husky Precision Screwdriver](https://www.homedepot.com/p/Husky-Ratcheting-Precision-Screwdriver-Set-23-Piece-H23PCSDSET/300117121) set, including the driver and all 22 bits.
 
 ## Printing
 
