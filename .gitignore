@@ -1,0 +1,12 @@
+build
+.DS_Store
+.vscode/
+ignore/
+gridfinity-rebuilt.json
+gridfinity-rebuilt-bins.json
+stl/
+batch/
+site/
+*.json
+*.3mf
+downloaded/
